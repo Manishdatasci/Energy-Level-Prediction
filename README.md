@@ -21,4 +21,4 @@ The project includes:
 - Saves trained model (`energy_model.pkl`)
 - Easy prediction functions for ML + Rule-Based outputs
 
----
+
